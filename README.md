@@ -1,6 +1,6 @@
 # Random Forest Algorithm Demonstration
 
-### This script contains a brief demonstration of the properties and execution of the Random Forest Algorithm. Utilizing the Iris dataset,demonstrated are factors like its accuracy, the various decision trees it generates, their structures etc.
+### This script contains a brief demonstration of the properties and execution of the Random Forest Algorithm. Utilizing the Iris dataset,demonstrated are factors like its accuracy, the various decision trees it generates, their structures etc. It demonstrates primarily the accuracy of the Algorithm, the proof that its fundamental lays in generation of various varied decision trees and the modules in Python that help execute it easily.
 
 ![image](https://user-images.githubusercontent.com/45360115/150668306-74bb0e20-90e6-40f5-bb23-35e4a802ad2d.png)
 
